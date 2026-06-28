@@ -1,0 +1,6 @@
+{
+  "name": "Pretemporada Potencia Fútbol",
+  "description": "Plan de entrenamiento físico de 4 semanas enfocado en potenciar la fuerza, potencia y explosividad de extremos rápidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
